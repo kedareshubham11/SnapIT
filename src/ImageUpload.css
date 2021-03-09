@@ -1,0 +1,33 @@
+.image__upload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: white;  
+  border: 1px solid purple;
+  padding: 10px;
+}
+.imageupload__progress {
+  width: 100%;
+  padding: 5px;
+}
+
+.createPostTitle {
+  text-align: center;
+  margin: 10px;
+}
+
+.createPost_Input {
+  margin: 10px;
+}
+
+.post_image {
+  margin: 10px;
+}
+
+.post_button {
+  margin: 10px;
+}

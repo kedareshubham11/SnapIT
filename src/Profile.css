@@ -1,0 +1,30 @@
+.profileModal {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid purple;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.profile_avatar {
+  border: solid 2px #c82d8d;
+  cursor: pointer;
+}
+
+.imageupload__progress {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 5px;
+}
+
+.post_image {
+  margin: 10px;
+}
+
+#file {
+  display: none;
+}
